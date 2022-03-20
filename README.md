@@ -3,7 +3,7 @@ DV - Lavoro di gruppo 1A
 Gruppo 06
 Aurora Tulli e Stephan Ciobanu
 
-Consigliamo di scaricare tutto il pacchetto ed eseguire solamente lo script main_ldg1a.m su Matlab.
+Consigliamo di scaricare tutto il pacchetto ed eseguire solamente lo script main_ldg1a.m su Matlab (tutti i file .m devono comunque essere salvati nella directory di lavoro).
 
 Lista di file pubblicati:
 
