@@ -38,3 +38,12 @@ Script che grafica gli stati U,W in funzione del tempo realizzando un'animazione
 
 
 Gli altri file sono immagini, GIF o video per la visualizzazione ed interpretazione dei risultati del modello in Simulink.
+
+
+Se si decide di non eseguire lo script main, eseguire i vari script nel seguente ordine:
+1) LDG_1A_function.m
+2) Ldg_1a.slx (eseguire la simulazione su Simulink®)
+3) plot_LDG_1A.m
+4) Equilibrio_degli_stati_LDG_1A.m
+5) ODE2ndorder.m (se si vogliono validare gli output di Simulink)
+6) grafici_interattivi.m (se si vuole salvare una gif degli stati U,W come curva dipendente dal parametro T (tempo))
